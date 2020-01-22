@@ -1,3 +1,4 @@
 .gitattributes  export-ignore
 version      export-ignore
 preview.png      export-ignore
+Readme.md      export-ignore
